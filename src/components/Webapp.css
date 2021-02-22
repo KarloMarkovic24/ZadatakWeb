@@ -1,5 +1,0 @@
-.custom-control-label::before{
-    position: absolute;
-    background-color: yellow;
-    right: 150px;
-}
